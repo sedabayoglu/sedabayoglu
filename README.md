@@ -49,7 +49,7 @@
 ## 📫 Bana Ulaş
 
 - [DockerHub](https://hub.docker.com/u/sedabayog)
-- [LinkedIn](https://linkedin.com/in/sedabayoglu)
+- [LinkedIn](https://www.linkedin.com/in/seda-bayoğlu-a0364a340/)
 
 ---
 
