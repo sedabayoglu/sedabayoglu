@@ -1,25 +1,22 @@
-## Hi there 👋
-<h1 align="center">✨ Merhaba, ben Seda</h1>
-
+<h1 align="center">✨ Hello, I'm Seda</h1>
 <p align="center">
   🚀 DevOps & Cloud Enthusiast | CI/CD Specialist  
   💻 Docker | GitHub Actions | AWS | Jenkins | Linux | Kubernetes  
-  📍 İstanbul, Türkiye
+  📍 Istanbul, Turkey
 </p>
 
----
 
-## 💡 Hakkımda
+💡 About Me
+	•	🎯 I develop projects focused on DevOps and CI/CD
+	•	🐳 I set up automated pipeline systems using Docker and GitHub Actions
+	•	🧠 I’m interested in AWS and cloud technologies
+	•	📌 I actively use GitHub as a technical showcase
+	•	🌱 I’m open to new opportunities and collaborations
 
-- 🎯 DevOps ve CI/CD odaklı projeler geliştiriyorum  
-- 🐳 Docker + GitHub Actions ile otomatik pipeline sistemleri kuruyorum  
-- 🧠 AWS ve bulut teknolojilerine ilgiliyim  
-- 📌 GitHub’ı teknik vitrin olarak aktif kullanıyorum  
-- 🌱 Yeni fırsatlara ve iş birliklerine açığım
+⸻
 
----
 
-## 🔧 Teknolojiler & Araçlar
+## 🔧 Technologies & Tools
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -28,31 +25,23 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
----
 
-## 📈 GitHub İstatistiklerim
-
+📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sedabayoglu&show_icons=true&theme=radical" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedabayoglu&layout=compact&theme=radical" width="320"/>
 </p>
+📌 Featured Projects
+	•	🔁 nodejs-docker-cicd:
+Automated CI/CD pipeline project with Node.js, Docker, and GitHub Actions
 
----
+⸻
 
-## 📌 Öne Çıkan Projeler
-
-- 🔁 [nodejs-docker-cicd](https://github.com/sedabayoglu/nodejs-docker-cicd):  
-  `Node.js + Docker + GitHub Actions ile otomatik CI/CD pipeline projesi`
-
----
-
-## 📫 Bana Ulaş
-
-- [DockerHub](https://hub.docker.com/u/sedabayog)
-- [LinkedIn](https://www.linkedin.com/in/seda-bayoğlu-a0364a340/)
-
----
-
+📫 How to Reach Me
+	•	DockerHub: sedabayog
+	•	LinkedIn: [
+](https://www.linkedin.com/in/seda-bayoğlu-a0364a340/))
 <p align="center">
-  💖 Teşekkürler! Profilime göz attığın için...
-</p><!--
+  💖 Thank you! For checking out my profile...
+</p>
+
