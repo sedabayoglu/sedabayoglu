@@ -40,8 +40,8 @@ Automated CI/CD pipeline project with Node.js, Docker, and GitHub Actions
 📫 How to Reach Me
 	•	DockerHub: sedabayog
 	•	LinkedIn: [
-](https://www.linkedin.com/in/seda-bayoğlu-a0364a340/))
+](https://www.linkedin.com/in/seda-bayoğlu-a0364a340/) 
+</p>
 <p align="center">
   💖 Thank you! For checking out my profile...
 </p>
-
